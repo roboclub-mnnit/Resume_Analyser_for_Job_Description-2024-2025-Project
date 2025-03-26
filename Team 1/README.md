@@ -186,8 +186,5 @@ This project is protected under the [MIT](https://choosealicense.com/licenses/mi
 - **Inspiration & Contributions:** Thanks to the open-source community for providing robust libraries (such as spaCy, scikit-learn, and Streamlit) that made this project possible.
 - **Other Resources:** Special thanks to language processing libraries like [language_tool_python](https://pypi.org/project/language-tool-python/) and [TextBlob](https://textblob.readthedocs.io/en/dev/) which help enhance the resume quality evaluation.
 
-<div style="text-align: center; font-size: 14px; color: gray;">
-    <p>© 2025 P-125, Batch of 2027. All rights reserved.</p>
-</div>
 
 
