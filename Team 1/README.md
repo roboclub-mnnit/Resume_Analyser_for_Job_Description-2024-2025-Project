@@ -179,10 +179,9 @@ This project is protected under the [MIT](https://choosealicense.com/licenses/mi
 
 - **Developers:**
   - **Samudraneel Sarkar**  
-    [LinkedIn](https://www.linkedin.com/in/samudraneel-sarkar) | [GitHub](https://github.com/samudraneel05) | 📧 [samudraneel05@gmail.com](mailto:samudraneel05@gmail.com)
+    [LinkedIn](https://www.linkedin.com/in/samudraneel-sarkar) | [GitHub](https://github.com/samudraneel05) 
   - **Guransh Goyal**  
-    [LinkedIn](https://www.linkedin.com/in/guransh-goyal) | [GitHub](https://github.com/GuranshGoyal) | 📧 [guransh31goyal@gmail.com](mailto:guransh31goyal@gmail.com)
-
+    [LinkedIn](https://www.linkedin.com/in/guransh-goyal) | [GitHub](https://github.com/GuranshGoyal) 
 - **Inspiration & Contributions:** Thanks to the open-source community for providing robust libraries (such as spaCy, scikit-learn, and Streamlit) that made this project possible.
 - **Other Resources:** Special thanks to language processing libraries like [language_tool_python](https://pypi.org/project/language-tool-python/) and [TextBlob](https://textblob.readthedocs.io/en/dev/) which help enhance the resume quality evaluation.
 
