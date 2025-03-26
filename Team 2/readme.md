@@ -23,8 +23,6 @@ ATS Compatibility Scoring: Evaluates the resume's format and content to predict 
 
 User Interface: Provides an intuitive web-based interface for users to upload resumes, and receive feedback.
 
-# Source Code
-https://github.com/yashkeswani29-cpu/Resume-Analyzer-and-Ats-score-prediction
 
 # Video Link
 https://youtu.be/0zItdnsyY4Y?si=K2UZ7xgPTtOcjw-5
