@@ -128,7 +128,32 @@ This will start a local Streamlit server where you can:
 - [X] **Task 3:** Integrate more robust job description parsing and candidate matching features.
 - [X] **Task 4:** Improve UI/UX and add more visualization options in the Streamlit app.
 
+
+
+
+
+## Problems Encountered and their Solutions
+
+- Identifying appropriate parameters for resume ranking and assigning meaningful weightage to different sections
+	> Conducted thorough research on industry standards and consulted domain experts to determine relevant parameters such as skills, experience, and education
+- Integrating the frontend, particularly handling the import of archive files
+  	> Utilized Python's zipfile module to extract and parse multiple resumes from archive files (ZIP format) and ensured seamless data transfer between the frontend and backend
+- Handling inconsistencies in resume structures and maintaining uniform data processing
+	> Implemented a robust text processing pipeline that included tokenization, lemmatization, and stopword removal to clean and standardize extracted text. Utilized libraries like nltk and spaCy to ensure uniform processing across different resume formats.
+
 ---
+
+## Future Plans
+
+- Improve the regex and pattern matching for extraction
+- Enhance the NLP pipeline
+- Host on AWS/Google Cloud
+- Suggest improvements to resumes
+- Generate cover letters
+- Incorporate weightage to personal recommendations on the basis of content of recommendation letters
+
+---
+
 
 ## Contributing
 
@@ -154,18 +179,7 @@ This will start a local Streamlit server where you can:
 
 </details>
 
----
 
-## Future Plans
-
-- Improve the regex and pattern matching for extraction
-- Enhance the NLP pipeline
-- Host on AWS/Google Cloud
-- Suggest improvements to resumes
-- Generate cover letters
-- Incorporate weightage to personal recommendations on the basis of content of recommendation letters
-
----
 
 ## License
 
