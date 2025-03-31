@@ -195,7 +195,7 @@ This project is protected under the [MIT](https://choosealicense.com/licenses/mi
     [LinkedIn](https://www.linkedin.com/in/samudraneel-sarkar) | [GitHub](https://github.com/samudraneel05) 
   - **Guransh Goyal**  
     [LinkedIn](https://www.linkedin.com/in/guransh-goyal) | [GitHub](https://github.com/GuranshGoyal) 
-  - **Yash Kesarwani**  
+  - **Yash Keswani**  
     [LinkedIn](https://www.linkedin.com/in/yash-keswani-856b45293) | [GitHub](https://github.com/yashkeswani29-cpu) 
 
 - **Inspiration & Contributions:** Thanks to the open-source community for providing robust libraries (such as spaCy, scikit-learn, and Streamlit) that made this project possible.
